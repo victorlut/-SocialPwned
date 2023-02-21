@@ -150,10 +150,6 @@ output
 
 ## Basic Examples and Combos 🚀
 
-### Video Demo
-
-[![SocialPwned](https://github.com/MrTuxx/SocialPwned/blob/master/docs/images/SocialPwned.PNG)](https://www.youtube.com/watch?v=ErHzZN5QFHo)
-
 Here are some examples:
 
 ### Instagram

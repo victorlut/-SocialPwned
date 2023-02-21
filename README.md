@@ -5,8 +5,6 @@
 </p>
 --->
 
-![SocialPwned](https://github.com/MrTuxx/SocialPwned/blob/master/docs/images/SocialPwned.PNG "SocialPwned Welcome")
-
 [![Python 3.8](https://img.shields.io/badge/Python-3.8-blue.svg)](https://www.python.org/download/releases/3.0/) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/MrTuxx/SocialPwned/blob/master/LICENSE) 
 
 <p align="justify">
